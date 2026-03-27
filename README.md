@@ -2,6 +2,8 @@
 Emulates an industrial Shipping/Order system. Take input data from a file, format it for output and calculate number of items sold and tally the total kinds of each transaction. 
 Incorporates a subroutine to handle the main program's calculations.
 
+#### DEMO VIDEO LINK <a href="https://youtu.be/7j85PXnylhg">HERE</a>!
+
 COMPILES ON MVS 3.8 TK5 - FITS COBOL 68 STANDARD
 
 You will need to have the following folders/files created:
@@ -10,7 +12,7 @@ You will need to have the following folders/files created:
 - PRJ3.DEV.COPYBOOk - for copybooks
 - PRJ3.DEV.LOADLIB - for output binaries
 - PRJ3.DEV.INPUT.SHIPIN - for input dataset
-(NOTE: if you use the 0-FULL-PRJ3-SETUP.jcl, you wont have to create all these manually)
+- (NOTE: if you use the 0-FULL-PRJ3-SETUP.jcl, you wont have to create all these manually)
 
 ## How to setup:
 ### SHORT WAY:
